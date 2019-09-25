@@ -11,7 +11,7 @@ A simple Notepad made using Python library Tkinter. This notepad is used to code
 
 # Contributing
 
-Feel Free to contribute, Contribution is the kind of impriving yourself and ourself, an extra hand to support is welcomed.
+Feel Free to contribute, an extra hand to support is welcomed.
 
 * Find The Problem or Add extra stuff
 * Edit and create a branch
