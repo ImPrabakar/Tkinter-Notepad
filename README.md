@@ -4,10 +4,22 @@ A simple Notepad made using Python library Tkinter. This notepad is used to code
 
 # Usage
 
-* Make a copy of `edit_menu.py, format_menu.py, help_menu.py, file_menu.py, main.py` 
-* Edit (optional) - You can customize your name
-* Place all code in one directory
-* Run the code `main.py`
+## Requirements
+- A good Python IDE
+- Python 3.7.4
+
+## Installing and using
+
+* Head to [`notepad`](https://github.com/ImPrabakar/Tkinter-Notepad/tree/master/notepad)
+* Make a copy of all the files
+* Create one directory, on that directory create an another sub-directory `notepad` and place that files there
+* Configuration file is [`config.py`](https://github.com/ImPrabakar/Tkinter-Notepad/blob/master/notepad/config.py) you can config your `name` in that file
+* In Command line type 
+```sh
+cd <maindirectory>
+python3 main.py
+```
+or simply run the script
 
 # Contributing
 
